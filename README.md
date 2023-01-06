@@ -12,4 +12,5 @@ Then the servers stack:
 
 Also you can look for the Load Balancer link working in the following screenshots:
 https://github.com/ivan-geentilal/Udacity-Project2/blob/main/Link1.PNG
+
 https://github.com/ivan-geentilal/Udacity-Project2/blob/main/Link2.PNG
