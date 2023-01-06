@@ -3,6 +3,10 @@
 
 ## Project Setup ##
 
+Look into the infrastructure diagram in the following image:
+
+https://github.com/ivan-geentilal/Udacity-Project2/blob/main/Projecto%202.png
+
 
 Run the network stack first:
  
